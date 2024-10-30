@@ -19,4 +19,4 @@ Same as Lab1, but you already signup in Github Classroom
    - trams.py
    - test_graphs.py
    - test_trams.py
-2. Go back on Canvas and copy and paste the link of your repository in the lab2 assignment and please specify your teammates [link](https://chalmers.instructure.com/courses/31748/assignments/95097)
+2. Go back on Canvas and copy and paste the link of your repository in the lab2 assignment and please specify your lab group number [link](https://chalmers.instructure.com/courses/31748/assignments/95097)
