@@ -1,8 +1,8 @@
 class Graph(nx.Graph):
-        def __init__(self, start=None):
-            super().__init__(start)
+    def __init__(self, start=None):
+        super().__init__(start)
 
-        # here are some of the public methods to implement
+    # here are some of the public methods to implement
     def vertices(self):
     def add_vertex(self,a):
     def get_vertex_value(self, v):
